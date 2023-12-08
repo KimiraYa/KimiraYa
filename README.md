@@ -1,6 +1,6 @@
-I'm KimiraYa, I'm an IT student, this is where I upload all of my projects. 
-Furthermore, I don't have many accomplishments for now, but at one point it will change.
-
+Would-be dev
+Pushing shitty commits
+Mostly private repos because my code is garbage
 
 
 ![mystic-anime](https://user-images.githubusercontent.com/91834647/201921081-a4efcd1a-3cda-44b3-bad9-e9d911cf41a0.gif)
